@@ -255,7 +255,7 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Línea 4</name>
+      <name>Azul Cielo</name>
       <styleUrl>#line-0097A7-7781-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -266,7 +266,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 6</name>
+      <name>Azul Cielo</name>
       <styleUrl>#line-0097A7-10106-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -277,7 +277,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 8</name>
+      <name>Azul Cielo</name>
       <styleUrl>#line-0097A7-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -323,7 +323,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 9</name>
+      <name>Azul Cielo</name>
       <styleUrl>#line-0097A7-10106-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -334,12 +334,13 @@
           -99.1873373,19.4377119,0
           -99.1840168,19.4375501,0
           -99.1829439,19.4372668,0
-          -99.1809912,19.436771,0
+          -99.1815839,19.4369003,0
+          -99.1811533,19.4368573,0
         </coordinates>
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 10</name>
+      <name>Verde</name>
       <styleUrl>#line-7CB342-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -374,7 +375,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 11</name>
+      <name>Verde</name>
       <styleUrl>#line-7CB342-8169-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -405,7 +406,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 12</name>
+      <name>Verde</name>
       <styleUrl>#line-7CB342-8169-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -427,7 +428,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name/>
+      <name>Línea 14</name>
       <styleUrl>#line-C2185B-8169-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -440,7 +441,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 15</name>
+      <name>Rosa</name>
       <styleUrl>#line-C2185B-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -481,7 +482,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 16</name>
+      <name>Rosa</name>
       <styleUrl>#line-C2185B-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -509,7 +510,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 18</name>
+      <name>Azul Marino</name>
       <styleUrl>#line-1A237E-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -538,7 +539,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 19</name>
+      <name>Azul Marino</name>
       <styleUrl>#line-1A237E-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -565,7 +566,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 20</name>
+      <name>Rosa</name>
       <styleUrl>#line-C2185B-8556-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -582,7 +583,7 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Línea 21</name>
+      <name>Azul Marino</name>
       <styleUrl>#line-1A237E-8944-nodesc</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
