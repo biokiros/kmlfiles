@@ -7,7 +7,7 @@
         <color>ff1427a5</color>
         <scale>1</scale>
         <Icon>
-          <href>https://mt.googleapis.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1499-shape_circle_4x.png&highlight=ff000000,A52714&scale=2.0</href>
+          <href>https://raw.githubusercontent.com/biokiros/kmlfiles/master/shapecircle.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
