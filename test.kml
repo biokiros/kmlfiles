@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="line-E65100-18244-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>18.244</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-18244-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>27.366</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-18244">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-18244-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-18244-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Line 1</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/e00pnBxh3UfGtg4P40_X1KgCBRW-2_Dpk4PmRNaWpoo7aQiv9iBUIG13GL1uRcdXfppTUBKKn9sjcvlf2rSppH2bcvbw8UNgdmiDDvJ78WV1LVGwRTrfK7DJdPDjCIhlH5F5Nwg" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#line-E65100-18244</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/e00pnBxh3UfGtg4P40_X1KgCBRW-2_Dpk4PmRNaWpoo7aQiv9iBUIG13GL1uRcdXfppTUBKKn9sjcvlf2rSppH2bcvbw8UNgdmiDDvJ78WV1LVGwRTrfK7DJdPDjCIhlH5F5Nwg</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -99.1324504,19.4299369,0
+          -99.1283681,19.4293602,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
