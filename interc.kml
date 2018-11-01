@@ -103,9 +103,14 @@ Churubusco</name>
     </Placemark>
     <Placemark>
       <name>67. Eje Central Lázaro Cárdenas y Eje 2
-Norte Manuel González </name>
-      <description><![CDATA[• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+Norte Manuel González </name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/zI8JRbPoGuNc6ms-V_H8Nm323loGVfWC_SqCkqJKQW8R2wcKxCzUW_aeClkt6gNoUGN_biuABYKCEh5GzjHjGnNsXop7sH_QWur2Q6zrolran6FXyatrQsN3S3SyDorlIuLljg" height="200" width="auto" /><br><br>• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/zI8JRbPoGuNc6ms-V_H8Nm323loGVfWC_SqCkqJKQW8R2wcKxCzUW_aeClkt6gNoUGN_biuABYKCEh5GzjHjGnNsXop7sH_QWur2Q6zrolran6FXyatrQsN3S3SyDorlIuLljg</value>
+        </Data>
+      </ExtendedData>
       <Point>
         <coordinates>
           -99.1383315,19.4550016,0
@@ -115,7 +120,7 @@ Norte Manuel González </name>
     <Placemark>
       <name>70. Eje 1 Norte Mosqueta - Ignacio López
 Rayón, Paseo de la Reforma y Eje Central
-Lázaro Cárdenas 
+Lázaro Cárdenas 
 </name>
       <description><![CDATA[<img src="https://lh5.googleusercontent.com/6B_iQUBUT7SOF7ReHCCZBj_ChUstLhQY07iVbgJI1_AhS3dRQrkiEVKiiIlLl7j3qj4W_N5KIX6lQBqOL1HBDX115coQNBcOIngTmYAOvhY0Mr22aXmGZAUxTAqZaonJnOXzn3Q" height="200" width="auto" /><br><br>• 7 hechos de tránsito (atropellado)<br>• Nivel de servicio: E<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
@@ -132,7 +137,7 @@ Lázaro Cárdenas
     </Placemark>
     <Placemark>
       <name>218. Eje 4 Poniente (Avenida Revolución y
-Eje 10 Sur (Río Magdalena y Loreto) </name>
+Eje 10 Sur (Río Magdalena y Loreto) </name>
       <description><![CDATA[<img src="https://lh3.googleusercontent.com/I94uInore0uoCSbIHNQMFz56K8KYcSyjkZjbX6-vhNEdm2scd7S27lTr36qtd9aIVj5gKByuqcO18-Aole5EPNbH_voTgPjaWg5xWTlF_dY3yyYB52D0M_jzTOnHOylTvDO4Xg" height="200" width="auto" /><br><br>• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
       <ExtendedData>
@@ -148,7 +153,7 @@ Eje 10 Sur (Río Magdalena y Loreto) </name>
     </Placemark>
     <Placemark>
       <name>274. Calzada Ignacio Zaragoza y Eje 7
-Oriente (Guelatao y Juan Crisóstomo Bonilla) </name>
+Oriente (Guelatao y Juan Crisóstomo Bonilla) </name>
       <description><![CDATA[<img src="https://lh5.googleusercontent.com/T4xGD0ABze2311CfIP9w--7Udb1t-YyOuNQERtQkPLCfQvI8Kk4v7fgewqjSvpAJNacRF__zV3BdRkWN0FOvMYZR3_p-Ar1c48jdCMXpVg3tbCn4ODh3BFoYXHS2jJAbMEm4Ig" height="200" width="auto" /><br><br>• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
       <ExtendedData>
@@ -197,8 +202,13 @@ Ignacio Zaragoza</name>
     <Placemark>
       <name>437. Eje 1 Oriente (Del Trabajo - Boleo) y Eje
 2 Norte (Canal del Nte) y Circunvalación</name>
-      <description><![CDATA[• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/5Qjn9sVlE9RtW0E8hBalCyz-T7RU6YB0SFJ1yd-XtiU8w3Tm0CLkI5WLq9KpfVMT8ib2a5_0vPRovhJGRRgihVJAuQsIvu1r0aYfhq8hGj1L2thx-jPtoQWcGUXj6kspks7AQA" height="200" width="auto" /><br><br>• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/5Qjn9sVlE9RtW0E8hBalCyz-T7RU6YB0SFJ1yd-XtiU8w3Tm0CLkI5WLq9KpfVMT8ib2a5_0vPRovhJGRRgihVJAuQsIvu1r0aYfhq8hGj1L2thx-jPtoQWcGUXj6kspks7AQA</value>
+        </Data>
+      </ExtendedData>
       <Point>
         <coordinates>
           -99.1248121,19.452031,0
