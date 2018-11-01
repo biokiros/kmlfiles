@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Capa sin nombre</name>
+    <Style id="icon-1499-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1499-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1499-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1499-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1499-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Punto 1</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1223211,19.422581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>458. Av Paseo de la Reforma y Eje 1
+Poniente (Rosales - Bucareli) y De la
+República y Juárez</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/8ywuf8cgVg42mDXtfla2KiWwi1AST_ZLglow2-54h4rnjpBNXk8zzZWKvi35QI_k--XKY0uf8tyqjSyKLmZ2YRLuQC0LlKJCYvSA7_MEcIDiEewWR_t_wQyn8FTRXCO7N42H" height="200" width="auto" /><br><br>• 9 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.3332]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/8ywuf8cgVg42mDXtfla2KiWwi1AST_ZLglow2-54h4rnjpBNXk8zzZWKvi35QI_k--XKY0uf8tyqjSyKLmZ2YRLuQC0LlKJCYvSA7_MEcIDiEewWR_t_wQyn8FTRXCO7N42H</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1497859,19.4356654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>277. Eje 8 Sur (Ermita Iztapalapa) y Eje 6 Sur</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/mTSj3nMKD7mqP-Md-w_klv3lFtp9NmwL5WoC6Pht6wtCCGFPXmqrwfQH83S9qYN85sXF9TKsq8U3rM28fd0v2AZh_KXMQuHbnM8BozkDAeFVVZQOnwKaqDgYogyM1BrFcTCF" height="200" width="auto" /><br><br>• 6 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.4998]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/mTSj3nMKD7mqP-Md-w_klv3lFtp9NmwL5WoC6Pht6wtCCGFPXmqrwfQH83S9qYN85sXF9TKsq8U3rM28fd0v2AZh_KXMQuHbnM8BozkDAeFVVZQOnwKaqDgYogyM1BrFcTCF</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.0150677,19.3524355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>524. Circuito Interior (Río Churubusco) y Av.
+Canal de Apatlaco
+</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/Sr9YHAWydWENTkzV3hLIPD7X2mm_qSGx1fYVs6IA2J0oCg2PYqjLIsY8vAbvfnWv2j4SLAN-azqDGcnh3Cwdaow6j2NZ483HSKugD1hWKGRDpFbBSgjYyqJ5hzDytBtAGg6wyw" height="200" width="auto" /><br><br>• 6 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.4998]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/Sr9YHAWydWENTkzV3hLIPD7X2mm_qSGx1fYVs6IA2J0oCg2PYqjLIsY8vAbvfnWv2j4SLAN-azqDGcnh3Cwdaow6j2NZ483HSKugD1hWKGRDpFbBSgjYyqJ5hzDytBtAGg6wyw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1015528,19.3802718,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>57. Eje 1 Norte (Manuel Lebrija-Talleres
+Graficos) a la altura de Eje 4 Oriente Río
+Churubusco</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/WC6fyUgNuOSqDeIO0dIu1EI6jbnJpPlivMFjX1o42hF1A9X3eXVxKLSMZPG8U918uu-AWUN8GckN_M5v7nzv9eNevbsVwdfB9dgoBGwKA0tJMtiYxzloBGM1LOXRI5S3ALBe63s" height="200" width="auto" /><br><br>• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/WC6fyUgNuOSqDeIO0dIu1EI6jbnJpPlivMFjX1o42hF1A9X3eXVxKLSMZPG8U918uu-AWUN8GckN_M5v7nzv9eNevbsVwdfB9dgoBGwKA0tJMtiYxzloBGM1LOXRI5S3ALBe63s</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.0734238,19.4148246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>67. Eje Central Lázaro Cárdenas y Eje 2
+Norte Manuel González </name>
+      <description><![CDATA[• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1383315,19.4550016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>70. Eje 1 Norte Mosqueta - Ignacio López
+Rayón, Paseo de la Reforma y Eje Central
+Lázaro Cárdenas 
+</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/6B_iQUBUT7SOF7ReHCCZBj_ChUstLhQY07iVbgJI1_AhS3dRQrkiEVKiiIlLl7j3qj4W_N5KIX6lQBqOL1HBDX115coQNBcOIngTmYAOvhY0Mr22aXmGZAUxTAqZaonJnOXzn3Q" height="200" width="auto" /><br><br>• 7 hechos de tránsito (atropellado)<br>• Nivel de servicio: E<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/6B_iQUBUT7SOF7ReHCCZBj_ChUstLhQY07iVbgJI1_AhS3dRQrkiEVKiiIlLl7j3qj4W_N5KIX6lQBqOL1HBDX115coQNBcOIngTmYAOvhY0Mr22aXmGZAUxTAqZaonJnOXzn3Q</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.139364,19.4440302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>218. Eje 4 Poniente (Avenida Revolución y
+Eje 10 Sur (Río Magdalena y Loreto) </name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/I94uInore0uoCSbIHNQMFz56K8KYcSyjkZjbX6-vhNEdm2scd7S27lTr36qtd9aIVj5gKByuqcO18-Aole5EPNbH_voTgPjaWg5xWTlF_dY3yyYB52D0M_jzTOnHOylTvDO4Xg" height="200" width="auto" /><br><br>• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/I94uInore0uoCSbIHNQMFz56K8KYcSyjkZjbX6-vhNEdm2scd7S27lTr36qtd9aIVj5gKByuqcO18-Aole5EPNbH_voTgPjaWg5xWTlF_dY3yyYB52D0M_jzTOnHOylTvDO4Xg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1920267,19.33874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>274. Calzada Ignacio Zaragoza y Eje 7
+Oriente (Guelatao y Juan Crisóstomo Bonilla) </name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/T4xGD0ABze2311CfIP9w--7Udb1t-YyOuNQERtQkPLCfQvI8Kk4v7fgewqjSvpAJNacRF__zV3BdRkWN0FOvMYZR3_p-Ar1c48jdCMXpVg3tbCn4ODh3BFoYXHS2jJAbMEm4Ig" height="200" width="auto" /><br><br>• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/T4xGD0ABze2311CfIP9w--7Udb1t-YyOuNQERtQkPLCfQvI8Kk4v7fgewqjSvpAJNacRF__zV3BdRkWN0FOvMYZR3_p-Ar1c48jdCMXpVg3tbCn4ODh3BFoYXHS2jJAbMEm4Ig</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.0370664,19.3858903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>295. Carretera Picacho Ajusco y Tekal</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/sJ1MNGJw3-nUdHqxreCqQwDyLMBXVs6g4IV3E18i9x-qo87dTBMn2pg6lwZQ15OZlptuQw-9yhno9kMQiYk7asV3Op-IRwSpKfj7ZgLZwh1nyXtIHKpA5cqULrkG4S9qJwwdWxg" height="200" width="auto" /><br><br>• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/sJ1MNGJw3-nUdHqxreCqQwDyLMBXVs6g4IV3E18i9x-qo87dTBMn2pg6lwZQ15OZlptuQw-9yhno9kMQiYk7asV3Op-IRwSpKfj7ZgLZwh1nyXtIHKpA5cqULrkG4S9qJwwdWxg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.2175532,19.2838834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>407. Eje 4 Oriente (Río Churubusco),
+Viaducto Río de la Piedad y Calzada
+Ignacio Zaragoza
+</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/7hHuXlbkP840fvTc7JnEabufMqn7_khfWIz-XF_d4dpoDTgcn18EAUOKIhe9lzSBzj-Y_lk6KxvGEvGKct4dTSmhrJHRdsPHYZz3f_vNWfAqeA2bGTSkIOYQUs4buxaWy-opvw" height="200" width="auto" /><br><br>• 6 hechos de tránsito (atropellado)<br>• Nivel de servicio: E<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/7hHuXlbkP840fvTc7JnEabufMqn7_khfWIz-XF_d4dpoDTgcn18EAUOKIhe9lzSBzj-Y_lk6KxvGEvGKct4dTSmhrJHRdsPHYZz3f_vNWfAqeA2bGTSkIOYQUs4buxaWy-opvw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.0769766,19.4087803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>437. Eje 1 Oriente (Del Trabajo - Boleo) y Eje
+2 Norte (Canal del Nte) y Circunvalación</name>
+      <description><![CDATA[• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1248121,19.452031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>489. Eje 5 Sur (Purísima) y Circuito Interior
+(Río Churubusco)</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/khMb4byERTwZgwQc11JuW1HcDSzfmnpVOXPM6DQ8LQYNLGTzq5sR4-cj1aSh5FdY2kxS8hD16Sf5th4z8OVPz4AbQlPJFc4uAoJ18LdeUoE1PReIR_v1dPF1iWd8igRmTcBv9g" height="200" width="auto" /><br><br>• 5 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/khMb4byERTwZgwQc11JuW1HcDSzfmnpVOXPM6DQ8LQYNLGTzq5sR4-cj1aSh5FdY2kxS8hD16Sf5th4z8OVPz4AbQlPJFc4uAoJ18LdeUoE1PReIR_v1dPF1iWd8igRmTcBv9g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1016546,19.3782094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>502. Eje Central Lázaro Cárdenas y Calle
+Vizcaínas</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/rVZLzgyDVhOfcFbxKo8F3jAHLsIf9QuzRlE-ujyN9z8JUXnrdsEKlFeiAIoQq31FDFnGi8njw2sF5F-1KVMpPiZ4JNPPvnbvPq15pbeucxO4yQivqWzzuifFoUkn_tuv_YpuUw" height="200" width="auto" /><br><br>• 4 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.6664]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/rVZLzgyDVhOfcFbxKo8F3jAHLsIf9QuzRlE-ujyN9z8JUXnrdsEKlFeiAIoQq31FDFnGi8njw2sF5F-1KVMpPiZ4JNPPvnbvPq15pbeucxO4yQivqWzzuifFoUkn_tuv_YpuUw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.1416536,19.4290411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>353. Anillo Periférico Oriente (Canal de
+Garay) y Tláhuac y San Lorenzo</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/QBdLRC8PvHKU1WdHTzpWJYXXesUbsf_wEVhp4kNsT9rI4qNLNXKOAiVaCqtcXtNXpDfU76JTawhKr2TGpAiCT9hSmZHErB1dLQa16xy6_R_WEay0drUUuxiv5xQChcXSMjbl" height="200" width="auto" /><br><br>• 6 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.4998]]></description>
+      <styleUrl>#icon-1499-A52714</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/QBdLRC8PvHKU1WdHTzpWJYXXesUbsf_wEVhp4kNsT9rI4qNLNXKOAiVaCqtcXtNXpDfU76JTawhKr2TGpAiCT9hSmZHErB1dLQa16xy6_R_WEay0drUUuxiv5xQChcXSMjbl</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -99.0756955,19.3186595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
