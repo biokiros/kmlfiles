@@ -36,57 +36,6 @@
         <styleUrl>#icon-1499-A52714-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1899-0288D1-nodesc-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Placemark>
-      <name>Punto 1</name>
-      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          -99.1223211,19.422581,0
-        </coordinates>
-      </Point>
-    </Placemark>
     <Placemark>
       <name>458. Av Paseo de la Reforma y Eje 1
 Poniente (Rosales - Bucareli) y De la
@@ -121,8 +70,7 @@ República y Juárez</name>
     </Placemark>
     <Placemark>
       <name>524. Circuito Interior (Río Churubusco) y Av.
-Canal de Apatlaco
-</name>
+Canal de Apatlaco</name>
       <description><![CDATA[<img src="https://lh5.googleusercontent.com/Sr9YHAWydWENTkzV3hLIPD7X2mm_qSGx1fYVs6IA2J0oCg2PYqjLIsY8vAbvfnWv2j4SLAN-azqDGcnh3Cwdaow6j2NZ483HSKugD1hWKGRDpFbBSgjYyqJ5hzDytBtAGg6wyw" height="200" width="auto" /><br><br>• 6 hechos de tránsito<br>• Nivel de servicio: F<br>• Calificación: 0.4998]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
       <ExtendedData>
@@ -232,8 +180,7 @@ Oriente (Guelatao y Juan Crisóstomo Bonilla) </name>
     <Placemark>
       <name>407. Eje 4 Oriente (Río Churubusco),
 Viaducto Río de la Piedad y Calzada
-Ignacio Zaragoza
-</name>
+Ignacio Zaragoza</name>
       <description><![CDATA[<img src="https://lh6.googleusercontent.com/7hHuXlbkP840fvTc7JnEabufMqn7_khfWIz-XF_d4dpoDTgcn18EAUOKIhe9lzSBzj-Y_lk6KxvGEvGKct4dTSmhrJHRdsPHYZz3f_vNWfAqeA2bGTSkIOYQUs4buxaWy-opvw" height="200" width="auto" /><br><br>• 6 hechos de tránsito (atropellado)<br>• Nivel de servicio: E<br>• Calificación: 0.6664]]></description>
       <styleUrl>#icon-1499-A52714</styleUrl>
       <ExtendedData>
