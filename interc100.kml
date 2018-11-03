@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Capa sin título</name>
-    <Style id="icon-1499-E65100-nodesc-normal">
+    <Style id="icon-1499-E65100-normal">
       <IconStyle>
         <color>ff0051e6</color>
         <scale>1</scale>
@@ -13,11 +13,8 @@
       <LabelStyle>
         <scale>0</scale>
       </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="icon-1499-E65100-nodesc-highlight">
+    <Style id="icon-1499-E65100-highlight">
       <IconStyle>
         <color>ff0051e6</color>
         <scale>1</scale>
@@ -28,26 +25,107 @@
       <LabelStyle>
         <scale>1</scale>
       </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1499-E65100-nodesc">
+    <StyleMap id="icon-1499-E65100">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1499-E65100-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1499-E65100-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1499-E65100-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1499-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Punto 1</name>
-      <styleUrl>#icon-1499-E65100-nodesc</styleUrl>
+      <name>277. Eje 8 Sur (Ermita Iztapalapa) y Eje 6 Sur</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.9<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
       <Point>
         <coordinates>
-          -99.131096,19.4234457,0
+          -99.0150327,19.3524495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>67. Eje Central Lázaro Cárdenas y Eje 2 Norte Manuel González </name>
+      <description><![CDATA[ACCIONES                                      INVERSION 2.7<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1383271,19.4548656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carretera Picacho Ajusco y Tekal
+</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.3<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.2175866,19.2838898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>502. Eje Central Lázaro Cárdenas y Calle Vizcaínas</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.1<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1416469,19.4290532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>575. José María Pino Suarez y Venustiano Carranza</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.1<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.132329,19.4307916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>81. Eje 1A Sur José María Izazaga y
+José María Pino Suárez</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.2<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1330341,19.4259343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>117. Eje 3 Sur Dr. Morones Prieto y
+Dr. José María Vertiz</name>
+      <description><![CDATA[ACCIONES                                       INVERSION 2.5<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1497075,19.4068896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>157. Eje 8 Sur (José María RicoPopocatepetl) y Av. Universidad</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 3.9<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1675919,19.3663517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eje 4 Norte Calzada Azcapotzalco – La Villa y Av. de las Granjas</name>
+      <description><![CDATA[ACCIONES                                        INVERSION 2.9<br>Proyecto<br>Adecuaciones geometricas <br>Pasos seguros<br>Señalización<br>Equipamiento urbano]]></description>
+      <styleUrl>#icon-1499-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -99.1734459,19.4907156,0
         </coordinates>
       </Point>
     </Placemark>
