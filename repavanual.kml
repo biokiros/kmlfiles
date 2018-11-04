@@ -3,235 +3,210 @@
   <Document>
     <name>MapCDMXRepavAnual</name>
     <description/>
-    <Style id="line-558B2F-7394-nodesc-normal">
+    <Style id="line-558B2F-7394-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>7.394</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-7394-nodesc-highlight">
+    <Style id="line-558B2F-7394-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>11.091</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-7394-nodesc">
+    <StyleMap id="line-558B2F-7394">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-7394-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-7394-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-7394-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-7394-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-7781-nodesc-normal">
+    <Style id="line-558B2F-7781-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>7.781</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-7781-nodesc-highlight">
+    <Style id="line-558B2F-7781-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>11.6715</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-7781-nodesc">
+    <StyleMap id="line-558B2F-7781">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-7781-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-7781-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-7781-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-7781-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-7975-nodesc-normal">
+    <Style id="line-558B2F-7975-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>7.975</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-7975-nodesc-highlight">
+    <Style id="line-558B2F-7975-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>11.9625</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-7975-nodesc">
+    <StyleMap id="line-558B2F-7975">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-7975-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-7975-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-7975-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-7975-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-8363-nodesc-normal">
+    <Style id="line-558B2F-8169-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>8.169</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-558B2F-8169-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>12.2535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-558B2F-8169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-8169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-8169-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-558B2F-8363-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>8.363</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-8363-nodesc-highlight">
+    <Style id="line-558B2F-8363-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>12.5445</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-8363-nodesc">
+    <StyleMap id="line-558B2F-8363">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-8363-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-8363-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-8363-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-8363-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-8556-nodesc-normal">
+    <Style id="line-558B2F-8556-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>8.556</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-8556-nodesc-highlight">
+    <Style id="line-558B2F-8556-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>12.834</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-8556-nodesc">
+    <StyleMap id="line-558B2F-8556">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-8556-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-8556-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-8556-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-8556-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-8750-nodesc-normal">
+    <Style id="line-558B2F-8750-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>8.75</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-8750-nodesc-highlight">
+    <Style id="line-558B2F-8750-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>13.125</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-8750-nodesc">
+    <StyleMap id="line-558B2F-8750">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-8750-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-8750-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-8750-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-8750-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-8944-nodesc-normal">
+    <Style id="line-558B2F-8944-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>8.944</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-8944-nodesc-highlight">
+    <Style id="line-558B2F-8944-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>13.416</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-8944-nodesc">
+    <StyleMap id="line-558B2F-8944">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-8944-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-8944-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-8944-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-8944-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-9138-nodesc-normal">
+    <Style id="line-558B2F-9138-normal">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>9.138</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-558B2F-9138-nodesc-highlight">
+    <Style id="line-558B2F-9138-highlight">
       <LineStyle>
         <color>ff2f8b55</color>
         <width>13.707</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-558B2F-9138-nodesc">
+    <StyleMap id="line-558B2F-9138">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-558B2F-9138-nodesc-normal</styleUrl>
+        <styleUrl>#line-558B2F-9138-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-558B2F-9138-nodesc-highlight</styleUrl>
+        <styleUrl>#line-558B2F-9138-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
       <name>Capa sin título</name>
       <Placemark>
-        <name>Line 1</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>La Morena</name>
+        <description>Gabriel Mancera - Lazaro Cárdenas</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -254,8 +229,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 2</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Calz. México Tacuba</name>
+        <description>Ingenieros Militares - Lago Viedma</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -271,8 +247,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 3</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Periférico Sur</name>
+        <description>Glorieta de vaqueritos - Insurgentes</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -298,8 +275,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 4</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>Periférico Sur</name>
+        <description>Glorieta de vaqueritos - Insurgentes</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -320,8 +298,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 5</name>
-        <styleUrl>#line-558B2F-7975-nodesc</styleUrl>
+        <name>Río San Joaquín</name>
+        <description>U.H. Lomas de Sotelo - Ingenieros Militares</description>
+        <styleUrl>#line-558B2F-7975</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -338,8 +317,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 6</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Calz. México Tacuba</name>
+        <description>Lago Viedma - Lago Valparaiso</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -352,8 +332,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 7</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>Calz. México Tacuba</name>
+        <description>Marina Nacional - Mariano Escobedo</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -369,8 +350,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 8</name>
-        <styleUrl>#line-558B2F-7781-nodesc</styleUrl>
+        <name>Cuitláhuac</name>
+        <description>México Tacuba - Biol. Maximino Martínez</description>
+        <styleUrl>#line-558B2F-7781</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -381,8 +363,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 9</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Cuitláhuac</name>
+        <description>México Tacuba - Biol. Maximino Martínez</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -392,8 +375,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 10</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>De los Gallos</name>
+        <description>Plan de Ayala - Circuito Interior</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -405,8 +389,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 11</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>Ricardo Flores Magón</name>
+        <description>Circuito Interior - Paseo de la Reforma</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -419,8 +404,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 12</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Ricardo Flores Magón</name>
+        <description>Circuito Interior - Paseo de la Reforma</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -435,8 +421,10 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 13</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Periférico Ote.
+</name>
+        <description>Eje 6 Sur - Eje 4 Sur</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -452,8 +440,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 14</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Av. Constituyentes</name>
+        <description>Jacarandas - De las Torres</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -465,8 +454,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 15</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Calz. del Hueso</name>
+        <description>Viaducto Tlalpan - Canal Nacional</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -483,8 +473,10 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 16</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Calz. del Hueso
+</name>
+        <description>Viaducto Tlalpan - Canal Nacional</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -494,8 +486,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 17</name>
-        <styleUrl>#line-558B2F-7975-nodesc</styleUrl>
+        <name>Av. Taxqueña</name>
+        <description>Terminal del Sur - Av. Tláhuac</description>
+        <styleUrl>#line-558B2F-7975</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -523,8 +516,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 18</name>
-        <styleUrl>#line-558B2F-7394-nodesc</styleUrl>
+        <name>Av. Granjas</name>
+        <description>Camarones - Maravillas</description>
+        <styleUrl>#line-558B2F-7394</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -535,8 +529,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 19</name>
-        <styleUrl>#line-558B2F-8944-nodesc</styleUrl>
+        <name>Av. Insurgentes Norte, México - Pachuca </name>
+        <description>Paradero Indios verdes Salida a Pachuca</description>
+        <styleUrl>#line-558B2F-8944</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -558,8 +553,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 20</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Av. Insurgentes Norte</name>
+        <description>Circuito Interior - Bajo puente Eje 1 Pte</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -571,8 +567,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 21</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Av. Insurgentes Norte</name>
+        <description>Gaza Eje 1 Pte.</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -592,8 +589,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 22</name>
-        <styleUrl>#line-558B2F-7975-nodesc</styleUrl>
+        <name>Av. Hangares</name>
+        <description>Circuito Interior - Calle 7</description>
+        <styleUrl>#line-558B2F-7975</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -604,8 +602,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 23</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Av. Tláhuac</name>
+        <description>Periférico Ote. - Narciso Mendoza</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -624,8 +623,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 24</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
+        <name>Av. Tláhuac</name>
+        <description>Periférico Ote. - Narciso Mendoza</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -643,8 +643,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 25</name>
-        <styleUrl>#line-558B2F-9138-nodesc</styleUrl>
+        <name>Av. Tláhuac</name>
+        <description>Periférico Ote. - Narciso Mendoza</description>
+        <styleUrl>#line-558B2F-9138</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -663,8 +664,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 26</name>
-        <styleUrl>#line-558B2F-8944-nodesc</styleUrl>
+        <name>Av. Tláhuac</name>
+        <description>Periférico Ote. - Narciso Mendoza</description>
+        <styleUrl>#line-558B2F-8944</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -678,8 +680,9 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 27</name>
-        <styleUrl>#line-558B2F-7781-nodesc</styleUrl>
+        <name>Eje 3 Ote.</name>
+        <description>Periférico Sur - Eje 3 Sur</description>
+        <styleUrl>#line-558B2F-7781</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -711,8 +714,150 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 28</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Eje 3 Ote.</name>
+        <description>Periférico Sur - Eje 3 Sur</description>
+        <styleUrl>#line-558B2F-8944</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1136206,19.4030136,0
+            -99.1135248,19.4056969,0
+            -99.1132459,19.4084494,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. del Imán - Aztecas</name>
+        <description>Insurgentes - División del Norte</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1859536,19.3047796,0
+            -99.183958,19.3060149,0
+            -99.1823702,19.3068249,0
+            -99.1802888,19.307716,0
+            -99.1760616,19.3092753,0
+            -99.1737871,19.3101258,0
+            -99.1717057,19.3111181,0
+            -99.1698818,19.3118471,0
+            -99.1689806,19.3128393,0
+            -99.1668563,19.3152086,0
+            -99.162951,19.3196838,0
+            -99.1555266,19.328168,0
+            -99.1537886,19.3302738,0
+            -99.153059,19.3313672,0
+            -99.1523938,19.3326833,0
+            -99.151793,19.333149,0
+            -99.1513638,19.333554,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. del Imán - Aztecas</name>
+        <description>Insurgentes - División del Norte</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1513638,19.333554,0
+            -99.1509883,19.333952,0
+            -99.1507308,19.3342962,0
+            -99.1486279,19.3349846,0
+            -99.1482846,19.3352275,0
+            -99.1473405,19.3367056,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Revolución</name>
+        <description>Circuito Interior - Eje 10 Sur</description>
+        <styleUrl>#line-558B2F-8750</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1931242,19.3364152,0
+            -99.193253,19.3371239,0
+            -99.193017,19.3376706,0
+            -99.1920514,19.3386829,0
+            -99.1918153,19.3390474,0
+            -99.1913003,19.3406469,0
+            -99.1904849,19.3435826,0
+            -99.189927,19.345587,0
+            -99.18997,19.3460526,0
+            -99.1901631,19.3491098,0
+            -99.1905493,19.3500816,0
+            -99.1902704,19.3522883,0
+            -99.1899485,19.3552239,0
+            -99.1890687,19.3629977,0
+            -99.1880817,19.3725121,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Guelatao</name>
+        <description>Calz. I. Zaragoza - Eje 6 Sur</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.0402758,19.3610435,0
+            -99.0402329,19.3664689,0
+            -99.0402329,19.3727847,0
+            -99.0373575,19.3778049,0
+            -99.0371429,19.3785336,0
+            -99.0371859,19.3791408,0
+            -99.0380442,19.3807602,0
+            -99.0388166,19.3818128,0
+            -99.0389883,19.382339,0
+            -99.0385592,19.3830273,0
+            -99.0384304,19.3837559,0
+            -99.0370142,19.3855777,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Canal de Miramontes</name>
+        <description>Periférico Sur - Escuela Naval Militar</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1246473,19.3154757,0
+            -99.1244113,19.3150302,0
+            -99.1240465,19.3121952,0
+            -99.1239821,19.3111827,0
+            -99.1242611,19.3077401,0
+            -99.1247761,19.302171,0
+            -99.1253554,19.2957917,0
+            -99.1258919,19.2896146,0
+            -99.1261923,19.2858475,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. 3 A</name>
+        <description>Redactores - Av. Vallejo</description>
+        <styleUrl>#line-558B2F-8556</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -99.1633993,19.5186088,0
+            -99.1671973,19.5216577,0
+            -99.1692572,19.5235992,0
+            -99.1710596,19.5252171,0
+            -99.1725992,19.5264558,0
+            -99.1733154,19.5270928,0
+            -99.1740959,19.5276995,0
+            -99.1761183,19.5288775,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Eje 3 Ote.
+</name>
+        <description>Periférico Sur - Eje 3 Sur</description>
+        <styleUrl>#line-558B2F-8363</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -746,135 +891,68 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 29</name>
-        <styleUrl>#line-558B2F-8944-nodesc</styleUrl>
+        <name>Calz. México Tacuba</name>
+        <description>Lago Valparaíso - Marina Nacional</description>
+        <styleUrl>#line-558B2F-7975</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            -99.1136206,19.4030136,0
-            -99.1135248,19.4056969,0
-            -99.1132459,19.4084494,0
+            -99.1990417,19.4585149,0
+            -99.1969982,19.4588998,0
+            -99.1949168,19.4594056,0
+            -99.1934148,19.4596484,0
+            -99.1911832,19.4596686,0
+            -99.1882864,19.4593045,0
+            -99.1881519,19.4593267,0
           </coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 30</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
+        <name>Ermita Iztapalapa</name>
+        <description>Eje tres Oriente- Genaro Estrada</description>
+        <styleUrl>#line-558B2F-8169</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            -99.1859536,19.3047796,0
-            -99.183958,19.3060149,0
-            -99.1823702,19.3068249,0
-            -99.1802888,19.307716,0
-            -99.1760616,19.3092753,0
-            -99.1737871,19.3101258,0
-            -99.1717057,19.3111181,0
-            -99.1698818,19.3118471,0
-            -99.1689806,19.3128393,0
-            -99.1668563,19.3152086,0
-            -99.162951,19.3196838,0
-            -99.1555266,19.328168,0
-            -99.1537886,19.3302738,0
-            -99.153059,19.3313672,0
-            -99.1523938,19.3326833,0
-            -99.151793,19.333149,0
-            -99.1513638,19.333554,0
+            -99.0494714,19.3424542,0
+            -99.0532051,19.3420695,0
+            -99.0547071,19.3420897,0
+            -99.0556513,19.3423529,0
+            -99.059857,19.3442561,0
+            -99.0622173,19.3453291,0
+            -99.0669165,19.3476372,0
+            -99.0724741,19.349925,0
+            -99.0865503,19.3564844,0
+            -99.0879665,19.3575776,0
+            -99.0890609,19.3584076,0
+            -99.0896188,19.3585696,0
+            -99.0901123,19.3586708,0
+            -99.0921293,19.3581445,0
+            -99.09788,19.3565451,0
+            -99.1006265,19.35612,0
+            -99.1022144,19.3559985,0
+            -99.1050897,19.3560997,0
+            -99.1090594,19.3564439,0
+            -99.1102276,19.3565872,0
           </coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Line 31</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
+        <name>Av. Jalisco</name>
+        <description>Periférico Pte. - Alta Tensión</description>
+        <styleUrl>#line-558B2F-8169</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            -99.1513638,19.333554,0
-            -99.1509883,19.333952,0
-            -99.1507308,19.3342962,0
-            -99.1486279,19.3349846,0
-            -99.1482846,19.3352275,0
-            -99.1473405,19.3367056,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Line 32</name>
-        <styleUrl>#line-558B2F-8750-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -99.1931242,19.3364152,0
-            -99.193253,19.3371239,0
-            -99.193017,19.3376706,0
-            -99.1920514,19.3386829,0
-            -99.1918153,19.3390474,0
-            -99.1913003,19.3406469,0
-            -99.1904849,19.3435826,0
-            -99.189927,19.345587,0
-            -99.18997,19.3460526,0
-            -99.1901631,19.3491098,0
-            -99.1905493,19.3500816,0
-            -99.1902704,19.3522883,0
-            -99.1899485,19.3552239,0
-            -99.1890687,19.3629977,0
-            -99.1880817,19.3725121,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Line 33</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -99.0402758,19.3610435,0
-            -99.0402329,19.3664689,0
-            -99.0402329,19.3727847,0
-            -99.0373575,19.3778049,0
-            -99.0371429,19.3785336,0
-            -99.0371859,19.3791408,0
-            -99.0380442,19.3807602,0
-            -99.0388166,19.3818128,0
-            -99.0389883,19.382339,0
-            -99.0385592,19.3830273,0
-            -99.0384304,19.3837559,0
-            -99.0370142,19.3855777,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Line 34</name>
-        <styleUrl>#line-558B2F-8363-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -99.1246473,19.3154757,0
-            -99.1244113,19.3150302,0
-            -99.1240465,19.3121952,0
-            -99.1239821,19.3111827,0
-            -99.1242611,19.3077401,0
-            -99.1247761,19.302171,0
-            -99.1253554,19.2957917,0
-            -99.1258919,19.2896146,0
-            -99.1261923,19.2858475,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Line 35</name>
-        <styleUrl>#line-558B2F-8556-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -99.1633993,19.5186088,0
-            -99.1671973,19.5216577,0
-            -99.1692572,19.5235992,0
-            -99.1710596,19.5252171,0
-            -99.1725992,19.5264558,0
-            -99.1733154,19.5270928,0
-            -99.1740959,19.5276995,0
-            -99.1761183,19.5288775,0
+            -99.2018409,19.3906758,0
+            -99.2000384,19.391708,0
+            -99.1981931,19.3928213,0
+            -99.1968413,19.3934487,0
+            -99.1938157,19.3956751,0
+            -99.1929574,19.3961811,0
+            -99.1914125,19.3967883,0
+            -99.1901679,19.3974157,0
+            -99.1897388,19.3980229,0
           </coordinates>
         </LineString>
       </Placemark>
